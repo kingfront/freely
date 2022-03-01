@@ -1,0 +1,7 @@
+# 忽略格式化 (根据项目需要自行添加)
+dist/
+node_modules
+*.log
+run
+logs/
+coverage/
