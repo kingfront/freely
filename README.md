@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-🔥 <a href="https://freely.vercel.app/">Demo 访问</a>
+🔥 <a target="_blank" href="https://freely.vercel.app/">Demo 访问</a>
 &nbsp;
-🌈 <a href="https://youzan.github.io/vant">掘金博客</a>
+🌈 <a target="_blank" href="https://youzan.github.io/vant">掘金博客</a>
 </p>
 
 ---
@@ -30,7 +30,6 @@
 - 🍭 使用 viewport 移动端方案
 - 🍭 使用 pinia 替代 vuex，更简单、更高效
 - 🍭 使用 `网易云音乐` 热门歌曲接口为数据源
-- 🍭 支持 husky + lint-staged 代码提交规范
 
 ## 启动、部署
 
