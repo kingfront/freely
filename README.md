@@ -15,7 +15,7 @@
 <p align="center">
 🔥 <a target="_blank" href="https://freely.vercel.app/">Demo 访问</a>
 &nbsp;
-🌈 <a target="_blank" href="https://youzan.github.io/vant">掘金博客</a>
+🌈 <a target="_blank" href="https://juejin.cn/post/7070402652948922381">文档</a>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 Using `yarn` to :
 
-````bash
+```bash
   # 安装依赖
   yarn
 
@@ -45,5 +45,4 @@ Using `yarn` to :
   # 本地打包
   yarn build
 
-```bash
-````
+```
