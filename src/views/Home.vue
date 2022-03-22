@@ -22,6 +22,7 @@ fetchMusicInfo()
 
 // 重新加载数据
 const retryData = () => {
+  const test = true
   fetchMusicInfo()
 }
 
