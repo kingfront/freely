@@ -46,3 +46,28 @@ Using `yarn` to :
   yarn build
 
 ```
+
+## 增加 jest 单元测试
+
+### jest 安装
+
+1.  基本依赖
+
+```shell
+yarn add jest babel-jest @vue/vue3-jest @vue/test-utils -D
+```
+
+2.  兼容 typescript 需要安装如下
+
+```shell
+yarn add @types/jest ts-jest -D
+```
+
+3. 兼容全局 @ 别名导入
+
+```js
+// jest.conf.js增加如下
+moduleNameMapper: {
+  '^@/(.*)$': '<rootDir>/src/$1'
+}
+```
