@@ -1,5 +1,5 @@
 <!--
-  add by xx
+  add by whao
   音乐展示组件
 -->
 <script setup lang="ts">
